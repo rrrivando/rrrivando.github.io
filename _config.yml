@@ -1,0 +1,35 @@
+title: Ryan Rivando
+description: > # this means to ignore newlines until "baseurl:"
+  MLIS candidate at Western University, information professional, future librarian.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Ryan Rivando # add your name
+author-img: Ryan.png # add your photo
+about-author: MLIS candidate at Western University, information professional, future librarian. Interested in technology, collections, and people. # add description
+social-twitter: # rrrvando
+# social-facebook: # add your Facebook handle
+social-github: rrrivando # add your Github handle
+social-linkedin: www.linkedin.com/in/ryanrivando # add your Linkedin handle
+social-email: rrrivando@gmail.com # add your Email address
+
+# Disqus
+discus-identifier:  # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
