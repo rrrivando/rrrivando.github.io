@@ -1,4 +1,4 @@
-baseurl = "rrrivando.github.io"
+baseurl = "http://example.com/"
 title = "Ryan Rivando"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
