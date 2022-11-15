@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Ryan Rivando # add your name
 author-img: Ryan.png # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+about-author: MLIS candidate at Western University, information professional, future librarian. Interested in technology, collections, and people. # add description
+social-twitter: rrrivando # add your Twitter handle
+# social-facebook: # add your Facebook handle
+social-github: rrrivando # add your Github handle
+social-linkedin: ryanrivando # add your Linkedin handle
+social-email: rrrivando@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
