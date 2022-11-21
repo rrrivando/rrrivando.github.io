@@ -27,9 +27,9 @@ Kelly, M. & Weigle, M.C. WARCreate - Create Wayback-Consumable WARC Files from A
 
 Web Archiving: Tools. (2022, September 14). Virginia Tech University Library. Retrieved October 2, 2022. https://guides.lib.vt.edu/webarchiving/tools
 
-[github-warcreate]https://github.com/machawk1 
-[CL-alb]https://web.archive.org/web/20220930051917/https://albuquerque.craigslist.org/
-[warcreate]http://warcreate.com 
-[replayweb]https://replayweb.page/
-[brackets]https://brackets.io/ 
-[doi1]https://dl.acm.org/doi/10.1145/2232817.2232930
+[github-warcreate]: https://github.com/machawk1 
+[CL-alb]: https://web.archive.org/web/20220930051917/https://albuquerque.craigslist.org/
+[warcreate]: http://warcreate.com 
+[replayweb]: https://replayweb.page/
+[brackets]: https://brackets.io/ 
+[doi1]: https://dl.acm.org/doi/10.1145/2232817.2232930
