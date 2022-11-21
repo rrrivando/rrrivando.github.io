@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Tool Review: [WARCreate][warcreate]"
+title: "Tool Review: [WARCreate]"
 date: 2022-10-04 
 description: Some thoughts on the function and usability of this web archiving tool.
 img: warcreate.png # Add image post (optional)
 ---
-WARCreate is an open-source Google Chrome add-on that, with the click of a button, creates a web archive file (.WARC) of the webpage you are visiting. Mat Kelly created the software during his time as part of the Department of Computer Science at Old Dominion University (Kelly & Weigle, 2012) and maintains WARCreate and other projects via a [GitHub repository][github-warcreate] 
+[WARCreate][warcreate] is an open-source Google Chrome add-on that, with the click of a button, creates a web archive file (.WARC) of the webpage you are visiting. Mat Kelly created the software during his time as part of the Department of Computer Science at Old Dominion University (Kelly & Weigle, 2012) and maintains WARCreate and other projects via a [GitHub repository][github-warcreate] 
 
 The tool is intended to allow the user to easily archive a web page using a standardised file type, most notably used by the Internet Archive (Kelly & Weigle, 2012). While there are other tools that auto crawl and archive the web, such as Wayback Machine via the Internet Archive, there are many instances where users may choose to archive web pages independently. For example, Wayback Machine does not archive every website on the internet, cannot possibly scrape every iteration of a website, and does not archive websites that are protected behind passwords (Kelly & Weigle, 2012). For scholarly pursuits, WARCreate could be used to capture data from a private Facebook profile that is then used for textual analysis. When considering the application of this tool the user should also take into account geodata, as it allows users to capture a specific moment of a website that is distinct to the user's location. For example, websites stored in the Internet Archive that are aware of their user's geolocation will only be representative of a specific place (Kelly & Weigle, 2012). Testing this theory, I searched for “craigslist.org” on Wayback Machine and was redirected to the [Albuquerque iteration][CL-alb]. Comparably, using WARCreate will allow the user to archive any geolocation of craigslist.
 
