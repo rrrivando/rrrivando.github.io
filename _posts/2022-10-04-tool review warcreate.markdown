@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tool Review: [WARCreate]"
+title: "Tool Review: WARCreate"
 date: 2022-10-04 
 description: Some thoughts on the function and usability of this web archiving tool.
 img: warcreate.png # Add image post (optional)

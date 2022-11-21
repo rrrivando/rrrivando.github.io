@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tool Documentation: TimeMapper
+title: "Tool Documentation: TimeMapper"
 date: 2022-10-27
 description: This is an introduction to the web based tool, TimeMapper, and includes a step by step guide to creating your first project.  # Add post description (optional)
-img:  # Add image post (optional)
+img: timemapper-map.png  # Add image post (optional)
 tags: [timemapper, interactive, timeline, map, digital exhibit] # add tag
 ---
 **Introduction**
