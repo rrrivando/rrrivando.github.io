@@ -4,6 +4,7 @@ title: "Tool Review: WARCreate"
 date: 2022-10-04 
 description: Some thoughts on the function and usability of this web archiving tool.
 img: warcreate.png # Add image post (optional)
+tags: [web archive, warc, web tools, tool review]
 ---
 [WARCreate][warcreate] is an open-source Google Chrome add-on that, with the click of a button, creates a web archive file (.WARC) of the webpage you are visiting. Mat Kelly created the software during his time as part of the Department of Computer Science at Old Dominion University (Kelly & Weigle, 2012) and maintains WARCreate and other projects via a [GitHub repository][github-warcreate] 
 
