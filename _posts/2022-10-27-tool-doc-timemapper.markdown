@@ -53,7 +53,7 @@ Using the Google Sheets template from TimeMapper, you can choose to only input c
 
 See the spreadsheet we will use below. 
 
-img: 7wonders-maponly_sheet.png
+![A Google Sheets template showing the data fields for TimeMapper](/assets/img/7wonders-maponly_sheet.png)
 
 For historic sites, research may be needed to find accurate geographic information. For this project, the coordinates were found on [Wikipedia][wiki7wonders]. The simplest way to find most modern coordinates is via Google Maps. See below.
 
@@ -61,13 +61,13 @@ Step 1: Open Google Maps and search the place.
 Step 2: Right-click on the marker for the place and click the longitude and longitude coordinates. The coordinates are now copied. 
 Step 3: Paste them into the spreadsheet under the Location column.
 
-img: getting_coordinates.gif 
+![An animated GIF that shows how to find the longitude and latitude of a location using Google Maps. ](/assets/img/getting_coordinates.gif) 
 
 Once data input is complete it is time to prepare for uploading the spreadsheet to TimeMapper. First, you need to publish the spreadsheet to the web. This will make the data in the spreadsheet viewable by TimeMapper. 
 
 To do this: File> Share> Publish to web> click Publish> then copy the link provided
 
-img: Publish_to_web.gif
+![An animated GIF showing step by step how to publish a Google Sheet to the web so that TimeMapper can access it](/assets/img/Publish_to_web.gif)
 
 Now let’s move over to [TimeMapper][timemappercreate] and put this data to use. 
 
@@ -77,7 +77,7 @@ Step 3: Type in your page title and (if you’re signed in) the URL you would li
 Step 4: Select the data view. In this case, we want to select Map. 
 Step 5: Click Publish.
 
-img: Map_only-TimeMapper.gif
+![An animated GIF showing how to connect TimeMapper to your Google Sheet, customize settings, and create a project](Map_only-TimeMapper.gif)
 
 [Here][maponly] is a link to what we created. Easy right?
 
