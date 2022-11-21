@@ -43,8 +43,7 @@ Add a shortcut to your Drive: File> Add a shortcut to Drive> Select the location
 
 Make a copy to edit: File> Make a copy> Change the file name, select the folder you want to save it in and click Make a copy.
 
-<image src="/assets/img/save_a_copy.gif" alt="An animated GIF showing step by step how to save a copy of a Google Sheets document in your personal Google Drive" width="450" />
-![An animated GIF showing step by step how to save a copy of a Google Sheets document in your personal Google Drive](/assets/img/save_a_copy.gif)
+![An animated GIF showing step by step how to save a copy of a Google Sheets document in your personal Google Drive](/assets/img/Save_a_copy.gif)
 
 This is now the file that you can use for this project. Each time you start a new project make a copy of the original and rename it. 
 
